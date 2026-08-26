@@ -3,6 +3,7 @@
 Daily public briefing focused on **artificial intelligence** and **quantitative trading**, published in English only.
 
 - [Latest edition](latest.md)
+- [2026-08-26](archive/2026-08-26.md)
 - [2026-08-25](archive/2026-08-25.md)
 - [2026-08-24](archive/2026-08-24.md)
 - [2026-08-23](archive/2026-08-23.md)
