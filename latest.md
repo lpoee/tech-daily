@@ -1,5 +1,5 @@
 # Tech Daily — Latest
 
-The latest published edition is **2026-09-17**.
+The latest published edition is **2026-09-18**.
 
-[Read the full edition](archive/2026-09-17.md)
+[Read the full edition](archive/2026-09-18.md)
